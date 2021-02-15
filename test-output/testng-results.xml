@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="2423" started-at="2021-02-15T14:42:14 AEDT" finished-at="2021-02-15T14:42:17 AEDT">
+    <groups>
+    </groups>
+    <test name="ExerciseTest" duration-ms="2423" started-at="2021-02-15T14:42:14 AEDT" finished-at="2021-02-15T14:42:17 AEDT">
+      <class name="com.exercise.scripts.test1">
+        <test-method status="PASS" signature="test(int, java.lang.String, int)[pri:0, instance:com.exercise.scripts.test1@7334aada]" name="test" duration-ms="2357" started-at="2021-02-15T14:42:14 AEDT" finished-at="2021-02-15T14:42:17 AEDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[200]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[London]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.exercise.scripts.test1 -->
+    </test> <!-- ExerciseTest -->
+  </suite> <!-- Suite1 -->
+</testng-results>
